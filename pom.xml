@@ -199,6 +199,7 @@
 							<!--<artifactId>surefire-junit47</artifactId>-->
 							<!--<version>${maven-surefire-plugin.version}</version>-->
 						<!--</dependency>-->
+
                         <dependency>
                             <groupId>org.apache.maven.surefire</groupId>
                             <artifactId>surefire-testng</artifactId>
